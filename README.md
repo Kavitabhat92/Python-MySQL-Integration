@@ -5,7 +5,7 @@ Repository containing portfolio of a basic Python script for importing data from
 
 ### Contents
 
-	- Titanic.xls : The dataset that needs to be imported in the MySQL database
+  - Titanic.xls : The dataset that needs to be imported in the MySQL database
   - Python-SQL Integration.ipynb : A jupyter notebook with a python code to integrate with SQL
   - Export-titanic.csv : The exported data from MySQL titanic table 
   
