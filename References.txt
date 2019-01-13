@@ -1,0 +1,13 @@
+MySQL Downloads:
+https://dev.mysql.com/downloads/windows/installer/8.0.html
+
+Packages to download:
+
+PyMySQL :
+https://github.com/PyMySQL/PyMySQL
+
+Xlrd:
+https://pypi.org/project/xlrd/
+
+Blog References:
+https://mherman.org/blog/import-data-from-excel-into-mysql-using-python/
